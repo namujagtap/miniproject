@@ -1,7 +1,12 @@
-Write a program to generate console base invoice (Mini Project     Duration - 3 days)
--- Add products with price
--- show product list
--- generate invoice (bill)
+Project Name: Write a program to generate console base invoice (Mini Project     Duration - 3 days)
+              -- Add products with price
+              -- show product list
+              -- generate invoice (bill)
+Group Members: Namrata Jagtap(Leader)
+               Gayatri Mhetre
+               Vaishnavi Ghodake
+               Ruchee Bansode
+               Snehal Jawer
 
 step 1: Create a database which name is product.
 step 2: Create a table which name is cosmeticproduct.
