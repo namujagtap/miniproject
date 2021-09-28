@@ -1,0 +1,18 @@
+* * * * * * * * * * * * * * * * * * * * * WEL-COME * * * * * * * * * * * * * * * * * * * 
+Project Topic : Hospital Management System in python using Tkinter
+Project Members : Namrata Jagtap(Group Leader)
+                               Gayatri Mhetre
+                               Vaishanavi Ghodake
+                               Ruchee Bansode
+                               Snehal Jawer
+
+~Install Python (version 3.9.6)
+~Install Visual Studio
+~In Visual Studio Install Python VS code .(for run python programm in visual studio)
+
+LET'S START
+
+step 1 : Create a one file which is hospital.py
+ 
+
+  
